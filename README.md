@@ -4,7 +4,7 @@ Demostración del curso Ionic 5 por Fernando Herrera
 
 Para ambientar por favor lanzar la siguiente linea de codigo en la terminal.
 
-npm install & npm i
+npm install || npm i
 
 Al terminar el proceso de installación por parte de todos los node_modules cuando se lanza npm.
 Lanzar el siguiente comando en la terminal.
